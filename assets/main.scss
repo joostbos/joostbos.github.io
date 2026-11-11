@@ -84,3 +84,21 @@ blockquote { border-left-color: var(--orange); }
   .project-art { min-height: 165px; }
   .page-content { padding-top: 1.5rem; }
 }
+
+/* Clear preview / under-construction notice */
+.preview-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin: 0 0 2rem;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid #f2b56b;
+  border-left: 6px solid #e87932;
+  border-radius: 14px;
+  background: linear-gradient(110deg, #fff4e7, #fff9ef);
+  color: #713b12;
+  box-shadow: 0 8px 22px rgba(136, 75, 18, .08);
+}
+.preview-banner-icon { font-size: 1.6rem; line-height: 1.3; }
+.preview-banner strong { display: block; color: #8b3d0e; font-size: .92rem; letter-spacing: .06em; }
+.preview-banner p { margin: .25rem 0 0; color: #713b12; font-size: .92rem; }
