@@ -14,35 +14,51 @@ permalink: /test/projects/umpire-training/
 
 # Umpire Training – Baseball & Softball
 
-**Virtual Reality · Sports Training · Unity**
+**Virtual Reality · Sports Training · AI-supported Practice · Unity**
 
-An immersive training experience focused on baseball and softball umpiring.
+A VR training application that helps baseball and softball umpires improve the accuracy and quality of their calls.
 
-The project explores how virtual reality can present game situations in an interactive environment, giving umpires a way to experience and practise scenarios from a first-person perspective.
+The experience recreates important umpiring situations and gives the trainee feedback on two parts of every decision: **whether the call was correct, and how it was delivered**. This includes the umpire's hand signals and use of voice, helping trainees practise both the decision itself and the mechanics of making the call.
 
-## The experience
+## The training experience
 
-The application places the user in a virtual baseball or softball context. Its focus is the experience of umpiring and the decisions and perspectives that are part of the game.
+The application focuses on three core game situations:
 
-## Project focus
+- **Balls and strikes at home plate** — practise judging pitches in relation to the strike zone.
+- **Safe or out at first base** — assess the play and make the appropriate call.
+- **Tag-up at third base** — practise judging a tag-up situation and communicating the decision.
 
-- Baseball and softball umpire training
-- Immersive game situations
-- First-person perspective
-- Interactive sports learning
+## Adaptive strike-zone practice with AI
+
+The home-plate exercise includes an AI-supported training approach. It analyses the areas of the strike zone where an umpire needs more practice and adapts the exercise accordingly.
+
+Pitches from those areas are selected more frequently, giving the umpire additional opportunities to work on specific areas for improvement. This makes the practice more individualised rather than repeating the same selection of pitches for every trainee.
+
+## Feedback on the complete call
+
+The training looks beyond right or wrong. After a decision, the umpire receives feedback on:
+
+- **Call accuracy** — whether the decision was correct.
+- **Hand mechanics** — how the umpire used hand signals to communicate the call.
+- **Voice mechanics** — how the umpire used their voice when making the call.
+
+By combining decision feedback with feedback on communication, the experience helps umpires practise the complete act of making a call.
 
 ## Project media
 
-Project screenshots and a gameplay video will be added here.
+Screenshots and a gameplay video will be added here to show the training environment, the umpiring situations and the feedback experience.
 
-**Screenshots:** Add images to `assets/images/umpire-training/` and embed them in this page.
+**Screenshots:** Add images to `assets/images/umpire-training/`.
 
-**Video:** Add a public YouTube or Vimeo link when the video is ready.
+**Gameplay video:** Add a public YouTube or Vimeo link when the video is ready.
 
 ## Project details
 
 - **Category:** Sports training / Virtual Reality
+- **Sports:** Baseball and softball
+- **Training situations:** Home plate, first base and third base
 - **Engine:** Unity
+- **AI-supported feature:** Adaptive selection of pitches based on strike-zone areas for improvement
 
 ---
 
