@@ -4,6 +4,8 @@ title: Home
 permalink: /
 ---
 
+> **PREVIEW VERSION** — This is a test build of the portfolio. Content, images and videos are still being refined.
+
 # Joost Bosschert
 
 ## VR Concept Creator & Developer
