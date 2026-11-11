@@ -46,6 +46,11 @@ My work explores how immersive technology can support sports training, movement 
     <div class="project-art art-playground"><span>04</span><strong>MOVE<br>TOGETHER</strong></div>
     <div class="project-card-body"><p class="project-type">CHILDREN · PHYSICAL EDUCATION</p><h3>Playground</h3><p>Motor skills through active play</p></div>
   </a>
+
+  <a class="project-card" href="{{ '/test/projects/friend-or-enemy/' | relative_url }}">
+    <div class="project-art art-friend"><span>05</span><strong>FRIEND<br>OR ENEMY?</strong></div>
+    <div class="project-card-body"><p class="project-type">360° VIDEO · SAFETY AWARENESS</p><h3>Friend or Enemy</h3><p>Recognising risk and seeking help</p></div>
+  </a>
 </div>
 
 ---
