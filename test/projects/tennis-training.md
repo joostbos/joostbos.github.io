@@ -14,34 +14,49 @@ permalink: /test/projects/tennis-training/
 
 # Tennis Training
 
-**Virtual Reality · Sports · Unity**
+**Virtual Reality · Tennis Development · Interactive Drills · Unity**
 
-A virtual reality tennis experience exploring how immersive environments can be used for tennis practice and player development.
+A Virtual Reality training application designed to help tennis players improve their game through focused, interactive practice.
 
-The project focuses on bringing the tennis experience into an interactive virtual environment, with an emphasis on the player, the court and the activity.
+The training covers the key strokes of tennis: **forehand, backhand, serve and volley**. Players can work on individual techniques through a range of drills, practising in an immersive environment at their own pace.
 
-## The experience
+## The training experience
 
-Tennis Training explores the possibilities of VR as an additional way to practise and experience tennis. The final presentation will show the gameplay, interactions and distinctive features of the application.
+The application offers different ways to practise tennis strokes and develop specific techniques.
 
-## Project focus
+Examples of drills include:
 
-- Tennis and sports practice
-- Immersive virtual environments
-- Player interaction
-- Interactive sports experiences
+- **Stationary-ball practice** — practise hitting a ball from a fixed position.
+- **Coach-fed balls** — respond to a ball tossed by a virtual coach.
+- **Serve-toss practice** — work specifically on the ball toss that precedes a serve.
+- **Spin practice** — train strokes with topspin and backspin.
+
+By separating the game into individual strokes and focused drills, the experience gives players a way to concentrate on particular elements of their technique.
+
+## Award-winning eye-tracking version
+
+A special version of the training focuses on **eye tracking during the return of serve**.
+
+This version was awarded the **Dutch SportInnovator Prize**. It explores the role of visual attention in a key moment of tennis: reading and preparing for an opponent's serve.
+
+The award-winning eye-tracking version is a special development of the broader Tennis Training concept.
 
 ## Project media
 
-Project screenshots and a gameplay video will be added here.
+Screenshots and gameplay footage will be added here to demonstrate the training environment, the different drills and the eye-tracking version.
 
-**Screenshots:** Add images to `assets/images/tennis-training/` and embed them in this page.
+**Screenshots:** Add images to `assets/images/tennis-training/`.
 
-**Video:** Add a public YouTube or Vimeo link when the video is ready.
+**Gameplay video:** Add a public YouTube or Vimeo link when the video is ready.
 
 ## Project details
 
-- **Category:** Sports / Virtual Reality
+- **Category:** Sports training / Virtual Reality
+- **Sport:** Tennis
+- **Training areas:** Forehand, backhand, serve and volley
+- **Drills:** Stationary ball, coach-fed ball, serve toss, topspin and backspin
+- **Special version:** Eye tracking for return of serve
+- **Recognition:** Dutch SportInnovator Prize
 - **Engine:** Unity
 
 ---
