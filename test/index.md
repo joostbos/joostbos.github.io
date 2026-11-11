@@ -41,6 +41,11 @@ My work explores how immersive technology can support sports training, movement 
     <div class="project-art art-fitness"><span>03</span><strong>MOVE<br>&amp; PLAY</strong></div>
     <div class="project-card-body"><p class="project-type">AUGMENTED REALITY · UNITY</p><h3>Fitness Fun</h3><p>Active play with AR</p></div>
   </a>
+
+  <a class="project-card" href="{{ '/test/projects/playground/' | relative_url }}">
+    <div class="project-art art-playground"><span>04</span><strong>MOVE<br>TOGETHER</strong></div>
+    <div class="project-card-body"><p class="project-type">CHILDREN · PHYSICAL EDUCATION</p><h3>Playground</h3><p>Motor skills through active play</p></div>
+  </a>
 </div>
 
 ---
