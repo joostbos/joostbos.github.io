@@ -14,34 +14,52 @@ permalink: /test/projects/fitness-fun/
 
 # Fitness Fun – Augmented Reality
 
-**Augmented Reality · Fitness · Unity**
+**Augmented Reality · Fitness · Interactive Rewards · Unity**
 
-An interactive augmented reality experience combining physical activity with digital interaction.
+Fitness Fun is an Augmented Reality application that makes traditional fitness machines more engaging by turning every repetition into a visual achievement.
 
-Fitness Fun explores how augmented reality can add a playful digital layer to movement and exercise, creating an engaging experience that connects the physical surroundings with virtual content.
+Instead of focusing only on the repetitive movement, users see something happen in the augmented environment as they exercise. The digital response adds a playful reward to the physical effort and gives each repetition a visible outcome.
 
-## The experience
+## Choose your experience
 
-The project puts the focus on movement, play and interaction. Its visuals and gameplay will be showcased here through screenshots and a short video.
+Fitness Fun features different themes that transform the exercise into a playful AR experience.
 
-## Project focus
+### Nature
 
-- Active and playful experiences
-- Augmented reality
-- Physical activity
-- Digital interaction
+The Nature theme brings unexpected moments to the workout. As the user exercises, virtual elements appear and develop in the environment.
+
+Examples include:
+- A Japanese temple rising up from a field of flowers.
+- A dolphin jumping out of the water.
+
+### Funfair
+
+The Funfair theme turns exercise into an arcade-style experience. Users interact with familiar fairground attractions as part of their workout.
+
+Examples include:
+- Operating slot machines.
+- Using a punch machine.
+
+## Making every repetition count
+
+The central idea behind Fitness Fun is simple: make the effort of exercising more rewarding by connecting repetitions to visual achievements.
+
+By adding playful, unexpected events to otherwise repetitive fitness-machine exercises, the application creates a more entertaining way to experience a workout.
 
 ## Project media
 
-Project screenshots and a gameplay video will be added here.
+Screenshots and gameplay footage will be added here to show the Nature and Funfair themes in action.
 
-**Screenshots:** Add images to `assets/images/fitness-fun/` and embed them in this page.
+**Screenshots:** Add images to `assets/images/fitness-fun/`.
 
-**Video:** Add a public YouTube or Vimeo link when the video is ready.
+**Gameplay video:** Add a public YouTube or Vimeo link when the video is ready.
 
 ## Project details
 
 - **Category:** Fitness / Augmented Reality
+- **Concept:** Visual achievements linked to exercise repetitions
+- **Themes:** Nature and Funfair
+- **Examples:** Japanese temple, dolphin, slot machines and punch machine
 - **Engine:** Unity
 
 ---
