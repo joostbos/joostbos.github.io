@@ -4,7 +4,13 @@ title: Home
 permalink: /
 ---
 
-> **PREVIEW VERSION** — This is a test build of the portfolio. Content, images and videos are still being refined.
+<div class="preview-banner" role="status">
+  <span class="preview-banner-icon">🚧</span>
+  <div>
+    <strong>PORTFOLIO IN AANBOUW — TESTVERSIE</strong>
+    <p>This is a work in progress. Project descriptions, screenshots and gameplay videos are still being added. The content and design may change.</p>
+  </div>
+</div>
 
 # Joost Bosschert
 
