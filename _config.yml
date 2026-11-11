@@ -1,0 +1,10 @@
+title: "Joost Bosschert | VR Concept Creator & Developer"
+description: "Virtual Reality and Augmented Reality experiences for sports, human motion and interaction."
+url: "https://joostbos.github.io"
+baseurl: ""
+theme: minima
+markdown: kramdown
+header_pages:
+  - projects.md
+  - about.md
+  - contact.md
