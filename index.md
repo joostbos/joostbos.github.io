@@ -4,6 +4,14 @@ title: Home
 permalink: /
 ---
 
+<div class="preview-banner" role="status">
+  <span class="preview-banner-icon">🚧</span>
+  <div>
+    <strong>PORTFOLIO IN AANBOUW — TESTVERSIE</strong>
+    <p>This is a work in progress. Project descriptions, screenshots and gameplay videos are still being added. The content and design may change.</p>
+  </div>
+</div>
+
 # Joost Bosschert
 
 ## VR Concept Creator & Developer
