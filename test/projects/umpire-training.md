@@ -44,13 +44,58 @@ The training looks beyond right or wrong. After a decision, the umpire receives 
 
 By combining decision feedback with feedback on communication, the experience helps umpires practise the complete act of making a call.
 
-## Project media
+## Gameplay video
 
-Screenshots and a gameplay video will be added here to show the training environment, the umpiring situations and the feedback experience.
+<div class="video-placeholder">
+  <div class="video-placeholder-icon">▶</div>
+  <div>
+    <strong>Gameplay video</strong>
+    <p>The gameplay footage has been received and is ready to be embedded. The video player will be added once the MP4 is available through a public video URL.</p>
+  </div>
+</div>
 
-**Screenshots:** Add images to `assets/images/umpire-training/`.
+## Screenshots
 
-**Gameplay video:** Add a public YouTube or Vimeo link when the video is ready.
+Explore the training application through these screenshots from the baseball and softball umpire exercises.
+
+<div class="media-gallery">
+  <figure>
+    <a href="{{ '/assets/images/umpire-training/selection-scene.webp' | relative_url }}">
+      <img src="{{ '/assets/images/umpire-training/selection-scene.webp' | relative_url }}" alt="Umpire training selection screen with baseball and fastpitch training options" loading="lazy">
+    </a>
+    <figcaption>Training selection and personal preferences</figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/assets/images/umpire-training/homeplate-sideview.webp' | relative_url }}">
+      <img src="{{ '/assets/images/umpire-training/homeplate-sideview.webp' | relative_url }}" alt="Virtual baseball batting and pitching scene from the umpire training application" loading="lazy">
+    </a>
+    <figcaption>Home plate – pitch in the training environment</figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/assets/images/umpire-training/homeplate-feedback.webp' | relative_url }}">
+      <img src="{{ '/assets/images/umpire-training/homeplate-feedback.webp' | relative_url }}" alt="Feedback panel showing the umpire's hand call, voice call and pitch result" loading="lazy">
+    </a>
+    <figcaption>Feedback on the call, hand signal and voice</figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/assets/images/umpire-training/personal-stats.webp' | relative_url }}">
+      <img src="{{ '/assets/images/umpire-training/personal-stats.webp' | relative_url }}" alt="Strike-zone view with personal umpire statistics" loading="lazy">
+    </a>
+    <figcaption>Personal statistics and strike-zone performance</figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/assets/images/umpire-training/first-base.webp' | relative_url }}">
+      <img src="{{ '/assets/images/umpire-training/first-base.webp' | relative_url }}" alt="Safe or out training situation at first base" loading="lazy">
+    </a>
+    <figcaption>First base – safe or out</figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/assets/images/umpire-training/tag-up.webp' | relative_url }}">
+      <img src="{{ '/assets/images/umpire-training/tag-up.webp' | relative_url }}" alt="Tag-up training situation at third base" loading="lazy">
+    </a>
+    <figcaption>Third base – tag-up situation</figcaption>
+  </figure>
+</div>
 
 ## Project details
 
