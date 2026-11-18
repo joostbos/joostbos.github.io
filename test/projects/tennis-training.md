@@ -41,13 +41,23 @@ This version was awarded the **Dutch SportInnovator Prize**. It explores the rol
 
 The award-winning eye-tracking version is a special development of the broader Tennis Training concept.
 
-## Project media
+## Gameplay video
 
-Screenshots and gameplay footage will be added here to demonstrate the training environment, the different drills and the eye-tracking version.
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/rTJXJdT67gI"
+    title="Tennis Training – gameplay"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-**Screenshots:** Add images to `assets/images/tennis-training/`.
+<p><a href="https://youtu.be/rTJXJdT67gI" target="_blank" rel="noopener">Watch the gameplay video on YouTube</a></p>
 
-**Gameplay video:** Add a public YouTube or Vimeo link when the video is ready.
+## Screenshots
+
+Screenshots of the training environment and tennis drills will be shown here.
 
 ## Project details
 
