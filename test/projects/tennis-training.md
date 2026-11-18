@@ -57,7 +57,40 @@ The award-winning eye-tracking version is a special development of the broader T
 
 ## Screenshots
 
-Screenshots of the training environment and tennis drills will be shown here.
+Click an image to open it at full size.
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;align-items:start;">
+  <figure style="margin:0;">
+    <a href="{{ '/assets/images/tennis-training/kleedkamer.webp' | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/tennis-training/kleedkamer.webp' | relative_url }}" alt="Kleedkamer met overzicht van de tennistrainingsonderdelen" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:8px;">
+    </a>
+    <figcaption style="margin-top:0.5rem;text-align:center;font-weight:600;">Kleedkamer</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <a href="{{ '/assets/images/tennis-training/ober.webp' | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/tennis-training/ober.webp' | relative_url }}" alt="Tennisracket en bal tijdens een oefening" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:8px;">
+    </a>
+    <figcaption style="margin-top:0.5rem;text-align:center;font-weight:600;">Ober</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <a href="{{ '/assets/images/tennis-training/trails.webp' | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/tennis-training/trails.webp' | relative_url }}" alt="Verschillende gekleurde baltrajecten in de tennisomgeving" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:8px;">
+    </a>
+    <figcaption style="margin-top:0.5rem;text-align:center;font-weight:600;">Trails</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <a href="{{ '/assets/images/tennis-training/volley.webp' | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/tennis-training/volley.webp' | relative_url }}" alt="Volley-oefening met instelbare trainingsdoelen" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:8px;">
+    </a>
+    <figcaption style="margin-top:0.5rem;text-align:center;font-weight:600;">Volley</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <a href="{{ '/assets/images/tennis-training/spin-the-wheel.webp' | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/tennis-training/spin-the-wheel.webp' | relative_url }}" alt="Spin the Wheel tennistrainingsoefening" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:8px;">
+    </a>
+    <figcaption style="margin-top:0.5rem;text-align:center;font-weight:600;">Spin the Wheel</figcaption>
+  </figure>
+</div>
 
 ## Project details
 
