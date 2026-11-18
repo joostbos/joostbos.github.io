@@ -53,7 +53,7 @@ The award-winning eye-tracking version is a special development of the broader T
   </iframe>
 </div>
 
-<p><a href="https://youtu.be/rTJXJdT67gI">Watch the gameplay video on YouTube</a></p>
+<p><a href="https://youtu.be/rTJXJdT67gI" target="_blank" rel="noopener">Watch the gameplay video on YouTube</a></p>
 
 ## Screenshots
 
