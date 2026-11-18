@@ -46,13 +46,17 @@ By combining decision feedback with feedback on communication, the experience he
 
 ## Gameplay video
 
-<div class="video-placeholder">
-  <div class="video-placeholder-icon">▶</div>
-  <div>
-    <strong>Gameplay video</strong>
-    <p>The gameplay footage has been received and is ready to be embedded. The video player will be added once the MP4 is available through a public video URL.</p>
-  </div>
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/AXnX-Xqn8_c"
+    title="Umpire Training – Baseball & Softball gameplay"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 </div>
+
+<p><a href="https://youtu.be/AXnX-Xqn8_c" target="_blank" rel="noopener">Watch the gameplay video on YouTube</a></p>
 
 ## Screenshots
 
